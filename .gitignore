@@ -1,0 +1,5 @@
+/data/
+.idea
+experiments /__pycache__/pipeline.cpython-39.pyc
+experiments /test.avi
+experiments /.DS_Store
